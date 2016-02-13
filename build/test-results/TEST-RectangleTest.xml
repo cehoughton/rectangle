@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="RectangleTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2016-02-12T21:39:02" hostname="epicodus-60.local" time="0.002">
+<testsuite name="RectangleTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2016-02-12T21:49:54" hostname="epicodus-60.local" time="0.001">
   <properties/>
   <testcase name="isSquare_WhenASquare_true" classname="RectangleTest" time="0.001"/>
   <testcase name="isSquare_whenNotASquare_false" classname="RectangleTest" time="0.0"/>
